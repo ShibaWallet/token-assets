@@ -1,0 +1,34 @@
+{
+    "id": "0x7B8274CcECD5BBCFe18958C3dB6471C5E3e1FBbf",
+    "type": "BEP20",
+    "name": "ShibaWallet",
+    "symbol": "SHWA",
+    "decimals": 18,
+    "explorer": "https://bscscan.com/address/0x7b8274ccecd5bbcfe18958c3db6471c5e3e1fbbf",
+    "status": "active",
+    "website": "https://shibawallet.cc",
+    "logourl": "https://bafkreibyqzxcnxqdcnhf2d2zeywja4frpi4jkdxzauqmtez3xmub7angz4.ipfs.dweb.link",
+    "description": "ShibaWallet is a decentralized wallet for unified all your NFT artworks and meme crypto coins in one app securely, self-governance and non-custodial entirely.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/ShibaWalletPro"
+        },
+        {
+            "name": "Medium",
+            "url": "https://shibawallet.medium.com/"
+        },
+        {
+            "name": "Telegram Channel",
+            "url": "https://t.me/ShibaWalletPro"
+        },
+        {
+            "name": "Telegram Group",
+            "url": "https://t.me/ShibaWalletPro_Official"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/ShibaWallet"
+        }
+    ]
+}
