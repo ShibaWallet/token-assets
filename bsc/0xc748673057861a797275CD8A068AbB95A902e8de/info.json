@@ -1,0 +1,38 @@
+{
+    "id": "0xc748673057861a797275CD8A068AbB95A902e8de",
+    "type": "BEP20",
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDoge",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/address/0xc748673057861a797275CD8A068AbB95A902e8de",
+    "status": "active",
+    "website": "https://babydogecoin.com/",
+    "logourl": "https://bafkreifw7nnbqu3kvxwb7i6wds5alfv5map5ahgbog3qfknmreldaq4uae.ipfs.dweb.link",
+    "description": "Baby Doge has learned a few tricks and lessons from his meme father, Doge. A new crypto birthed by fans of the Doge Meme online community. Baby Doge seeks to impress his father by showing his new improved transaction speeds & adorableness.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/babydogecoin"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/babydogecoin"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.com/invite/vuxmrn5FSZ"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://reddit.com/user/Baby_doge_coin"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/baby-doge-coin/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/baby-doge-coin/"
+        }
+    ]
+}

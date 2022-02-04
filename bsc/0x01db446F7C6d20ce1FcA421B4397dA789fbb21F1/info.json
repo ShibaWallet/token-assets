@@ -1,0 +1,30 @@
+{
+    "id": "0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1",
+    "type": "BEP20",
+    "name": "Doge King",
+    "symbol": "DOGEK",
+    "decimals": 18,
+    "explorer": "https://bscscan.com/token/0x01db446F7C6d20ce1FcA421B4397dA789fbb21F1",
+    "status": "active",
+    "website": "https://dogekingtoken.com",
+    "logourl": "https://bafkreibxxlq3wjs5cn5sk5iogwksq6y4qqureaygfuslerjra5qa4zhx3m.ipfs.dweb.link",
+    "description": "Doge King is a MEME & Self Solvent Token on #BSC inspired by #DOGE Coin",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/dogekingbsc"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/dogekingen"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/dogekingbsc"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/doge-king/"
+        }
+    ]
+}

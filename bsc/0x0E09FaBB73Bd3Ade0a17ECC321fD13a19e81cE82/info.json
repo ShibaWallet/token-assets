@@ -1,0 +1,38 @@
+{
+    "id": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "type": "BEP20",
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "decimals": 18,
+    "explorer": "https://bscscan.com/address/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "status": "active",
+    "website": "https://pancakeswap.finance/",
+    "logourl": "https://bafkreifox62qtdaab5vook564sobw5fby2hzx33jswgebviryzka7hmidy.ipfs.dweb.link",
+    "description": "The moon is made of pancakes. Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/pancakeswap"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/PancakeSwap"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/pancakeswap"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/pancakeswap/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/pancakeswap-token/"
+        },
+        {
+            "name": "email",
+            "url": "PancakeSwap@gmail.com"
+        }
+    ]
+}

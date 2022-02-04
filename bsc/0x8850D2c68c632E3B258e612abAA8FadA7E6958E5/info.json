@@ -1,0 +1,34 @@
+{
+    "id": "0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+    "type": "BEP20",
+    "name": "Pig Finance",
+    "symbol": "PIG",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/address/0x8850D2c68c632E3B258e612abAA8FadA7E6958E5",
+    "status": "active",
+    "website": "https://pigtoken.finance/",
+    "logourl": "https://bafkreiexkoegtx64hrayqiq72t4lfycheef5lfdf3f3wgzrnawapdbnzwe.ipfs.dweb.link",
+    "description": "PIG is decentralized deflation token built on Binance Smart Chain.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Pig_Finance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/PigTokenBSC"
+        },
+        {
+            "name": "Medium",
+            "url": "https://pig-finance.medium.com/"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/pig-finance/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/pig-finance/"
+        }
+    ]
+}

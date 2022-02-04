@@ -1,0 +1,38 @@
+{
+    "id": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "type": "BEP20",
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "explorer": "https://bscscan.com/address/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+    "status": "active",
+    "website": "https://www.paxos.com/busd/",
+    "logourl": "https://bafkreibo5catzyvxgcrf3wdlfgxjb7e5wt7oahnfxmeb5sgwkdzdpazuyy.ipfs.dweb.link",
+    "description": "A new stablecoin, issued in partnership with Binance.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/binance"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/BinanceDEXchange"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/binance-chain/"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/binance-usd/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/binance-usd/"
+        },
+        {
+            "name": "email",
+            "url": "product@binance.com"
+        }
+    ]
+}

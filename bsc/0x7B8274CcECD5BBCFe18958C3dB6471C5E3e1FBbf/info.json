@@ -29,6 +29,18 @@
         {
             "name": "Github",
             "url": "https://github.com/ShibaWallet"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/shiba-wallet/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/shibawallet"
+        },
+        {
+            "name": "email",
+            "url": "support@shibawallet.cc"
         }
     ]
 }

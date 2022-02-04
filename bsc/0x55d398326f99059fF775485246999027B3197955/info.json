@@ -1,0 +1,30 @@
+{
+    "id": "0x55d398326f99059fF775485246999027B3197955",
+    "type": "BEP20",
+    "name": "Binance-Peg BSC-USD",
+    "symbol": "USDT",
+    "decimals": 18,
+    "explorer": "https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955",
+    "status": "active",
+    "website": "https://tether.to",
+    "logourl": "https://bafkreicakr7qzdv3wofok52qhvtvgkhuwjx7tu3drpu5nr7igawra5q2uu.ipfs.dweb.link",
+    "description": "Launched in 2014, Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money. ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Tether_to/"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/OfficialTether"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/tether/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/tether/"
+        }
+    ]
+}

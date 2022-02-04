@@ -1,0 +1,42 @@
+{
+    "id": "0x02fF5065692783374947393723dbA9599e59F591",
+    "type": "BEP20",
+    "name": "YooShi",
+    "symbol": "YOOSHI",
+    "decimals": 9,
+    "explorer": "https://bscscan.com/address/0x02fF5065692783374947393723dbA9599e59F591",
+    "status": "active",
+    "website": "https://yooshi.io",
+    "logourl": "https://bafkreieqgclpgn2qr2rwnitwvmarvit5gem3bejhft2obgm55sgx5txhzi.ipfs.dweb.link",
+    "description": "The decentralized Meme coin grows into YooShi's game Metaverse. YooShi devotes to build a bridge between the the P2E game and players and make the game not only for fun but also can make money! ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/yooshi_official"
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/@YooShi"
+        },
+        {
+            "name": "Telegram Channel",
+            "url": "https://t.me/yooshi_announcement"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/YooShiGamePad"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/YooshiToken"
+        },
+        {
+            "name": "Youtube",
+            "url": "https://www.youtube.com/c/YooShiOfficialChannel"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/Yooshi-io/"
+        }
+    ]
+}
