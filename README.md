@@ -3,9 +3,11 @@ List your crypto tokens & info on multi-chains acting upon ShibaWallet app
 
 <br/>
 
-[English Doc.](#EnglishDoc)
-[Deutsche Dokumentation](#GermanDoc)
-[हिंदी दस्तावेज़ीकरण](#HindiDoc)
+- 1.[English Doc.](#EnglishDoc) <br/>
+- 2.[Deutsche Dokumentation](#GermanDoc) <br/>
+- 3.[हिंदी दस्तावेज़ीकरण](#HindiDoc) <br/>
+- 4.[Bahasa Indo](#IndonesianDoc) <br/>
+- 5.[한국어](#KoreanDoc) <br/>
 
 
 <br/>
