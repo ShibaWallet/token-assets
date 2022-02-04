@@ -1,0 +1,38 @@
+{
+    "id": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "type": "ERC20",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "status": "active",
+    "website": "https://www.binance.com/",
+    "logourl": "https://bafkreiagzva5xmbpkofbxtxrhogqzu5b5jr3oc3uxpisextwlbr7vanfny.ipfs.dweb.link",
+    "description": "BNB is built by Binance Inc.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/Binance"
+        },
+        {
+            "name": "Discord",
+            "url": "https://www.reddit.com/r/binance/"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/binanceexchange/"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/binance-coin/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/binancecoin/"
+        },
+        {
+            "name": "Email",
+            "url": "support@binance.zendesk.com"
+        }
+    ]
+}

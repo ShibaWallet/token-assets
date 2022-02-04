@@ -1,0 +1,34 @@
+{
+    "id": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "type": "ERC20",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/token/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "status": "active",
+    "website": "https://weth.io/",
+    "logourl": "https://bafkreieo77jqxkuk46onbggfn4xjaic2ms2rmbwxsrd5gzjx4px7n3g6eu.ipfs.dweb.link",
+    "description": "Wrapped ETH (wETH) is built by Radar Relay Inc.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/radarrelay?lang=en"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/radar_relay"
+        },
+        {
+            "name": "Medium",
+            "url": "https://medium.com/radartech/tagged/radar-relay"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/weth/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/weth/"
+        }
+    ]
+}

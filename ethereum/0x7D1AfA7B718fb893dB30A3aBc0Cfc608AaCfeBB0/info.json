@@ -1,0 +1,38 @@
+{
+    "id": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "type": "ERC20",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/address/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "status": "active",
+    "website": "https://polygon.technology/",
+    "logourl": "https://bafkreifxntjkhwgn7uil4j5uxyut76o4ny6epxjiouanhnia2hwnererce.ipfs.dweb.link",
+    "description": "Polygon solves pain points associated with Blockchains, like high gas fees and slow speeds, without sacrificing on security. ",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/0xPolygon"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/polygonofficial"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/polygon"
+        },
+        {
+            "name": "Github",
+            "url": "https://github.com/maticnetwork/"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/matic-network/"
+        }
+    ]
+}

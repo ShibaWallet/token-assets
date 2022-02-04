@@ -1,0 +1,42 @@
+{
+    "id": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "type": "ERC20",
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/token/0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+    "status": "active",
+    "website": "https://shibatoken.com/",
+    "logourl": "https://bafkreie5tjexzb4xrze64jlyawhl45vilrxumihhfdmzcjlnpbzmhi4loq.ipfs.dweb.link",
+    "description": "A Decentralized Meme Token that Evolved into a Vibrant Ecosystem.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/shibtoken"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/ShibaInu_Dogecoinkiller"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/shibatoken"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://www.reddit.com/r/SHIBArmy/"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://instagram.com/shibatoken_official"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/shiba-inu/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/shiba-inu/"
+        }
+    ]
+}

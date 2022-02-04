@@ -1,0 +1,38 @@
+{
+    "id": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "type": "ERC20",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "explorer": "https://etherscan.io/token/0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "status": "active",
+    "website": "https://chain.link/",
+    "logourl": "https://bafkreigtutdpmeujir6zfiyg2ghbyccg3wovukrzx3ynybh24j7nuppqsy.ipfs.dweb.link",
+    "description": "Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/chainlink"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/chainlinkofficial"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.gg/aSK4zew"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/chainlink/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/chainlink/"
+        },
+        {
+            "name": "Email",
+            "url": "support@chain.link"
+        }
+    ]
+}

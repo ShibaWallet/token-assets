@@ -1,0 +1,38 @@
+{
+    "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "type": "ERC20",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "status": "active",
+    "website": "https://www.centre.io/",
+    "logourl": "https://bafkreibj6jchjsblilwzidxgnehvh2heeno2iua5hujrd4hvcimxacc3ii.ipfs.dweb.link",
+    "description": "A stablecoin is built by Centre.io. Connecting every person, every merchant, every financial service, every currency. Everywhere.",
+    "socials": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/centre_io"
+        },
+        {
+            "name": "Discord",
+            "url": "https://discord.com/invite/Q7bKN5y"
+        },
+        {
+            "name": "Discord",
+            "url": "https://github.com/centrehq"
+        },
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/usd-coin/"
+        },
+        {
+            "name": "Email",
+            "url": "usdc@centre.io"
+        }
+    ]
+}
