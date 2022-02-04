@@ -3,11 +3,11 @@ Buat daftar token & info crypto Anda tentang multi-rantai yang bekerja pada apli
 
 <br/>
 
-- [English Doc.](#EnglishDoc) <br/>
-- [Deutsche Dokumentation](#GermanDoc) <br/>
-- [हिंदी दस्तावेज़ीकरण](#HindiDoc) <br/>
-- [Bahasa Indo](#IndonesianDoc) <br/>
-- [한국어](#KoreanDoc) <br/>
+- [English Doc.](https://github.com/ShibaWallet/token-assets/) <br/>
+- [Deutsche Dokumentation](https://github.com/ShibaWallet/token-assets/blob/main/README-German.md) <br/>
+- [हिंदी दस्तावेज़ीकरण](https://github.com/ShibaWallet/token-assets/blob/main/README-Hindi.md) <br/>
+- [Bahasa Indo](https://github.com/ShibaWallet/token-assets/blob/main/README-Indonesian.md) <br/>
+- [한국어](https://github.com/ShibaWallet/token-assets/blob/main/README-Korean.md) <br/>
 
 Masalah apa pun dengan mengirim email ke support@shibawallet.cc
 

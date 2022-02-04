@@ -3,11 +3,11 @@ ShibaWallet 앱에서 작동하는 다중 체인에 대한 암호화 토큰 및 
 
 <br/>
 
-- [English Doc.](#EnglishDoc) <br/>
-- [Deutsche Dokumentation](#GermanDoc) <br/>
-- [हिंदी दस्तावेज़ीकरण](#HindiDoc) <br/>
-- [Bahasa Indo](#IndonesianDoc) <br/>
-- [한국어](#KoreanDoc) <br/>
+- [English Doc.](https://github.com/ShibaWallet/token-assets/) <br/>
+- [Deutsche Dokumentation](https://github.com/ShibaWallet/token-assets/blob/main/README-German.md) <br/>
+- [हिंदी दस्तावेज़ीकरण](https://github.com/ShibaWallet/token-assets/blob/main/README-Hindi.md) <br/>
+- [Bahasa Indo](https://github.com/ShibaWallet/token-assets/blob/main/README-Indonesian.md) <br/>
+- [한국어](https://github.com/ShibaWallet/token-assets/blob/main/README-Korean.md) <br/>
 
 support@shibawallet.cc로 이메일을 보내 문제가 있는 경우
 
