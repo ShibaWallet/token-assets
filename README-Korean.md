@@ -30,7 +30,7 @@ support@shibawallet.cc로 이메일을 보내 문제가 있는 경우
    - 1단계: 프로젝트 토큰을 [ShibaWallet 에어드롭 계약](https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) 또는 BSC 계약: 0xeD72Ab547584B9E3로 이전합니다.
    - 2단계: 프로젝트 설립자가 에어드롭 시간을 확인한 후 당사 계약은 귀하의 토큰을 미리 보유할 것입니다. [ShibaWallet 에어드롭 계약] (https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a)는 프로젝트 토큰이 누구에게 에어드롭하는지 알 수 있습니다.
    - 3단계: 그러면 프로젝트 팔로워가 ShibaWallet 앱에서 토큰을 요청할 수 있습니다.
-   - 4단계: (ShibaWallet Twitter)(https://twitter.com/ShibaWalletPro)에서 프로젝트 Airdropping에 대한 트윗을 공식적으로 게시하고 더 많은 새 팔로워/그룹 구성원을 유치합니다.
+   - 4단계: [ShibaWallet Twitter](https://twitter.com/ShibaWalletPro)에서 프로젝트 Airdropping에 대한 트윗을 공식적으로 게시하고 더 많은 새 팔로워/그룹 구성원을 유치합니다.
 
 <br/>
 

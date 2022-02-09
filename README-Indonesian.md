@@ -30,7 +30,7 @@ Masalah apa pun dengan mengirim email ke support@shibawallet.cc
    - Langkah 1: Transfer token proyek Anda ke [ShibaWallet Airdrop Contract](https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) atau kontrak BSC: 0xeD72Ab545E7B9B435bCaEa7f843A7326C
    - Langkah 2: Kontrak kami akan menahan token Anda terlebih dahulu, setelah pendiri proyek Anda mengkonfirmasi waktu pengiriman, Anda perlu mengirim email ke support@shibawallet.cc termasuk alamat pengikut baru BSC ini sehingga [Kontrak Airdrop ShibaWallet] (https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) mampu mengetahui bagaimana token proyek Anda dikirim ke siapa.
    - Langkah 3: Kemudian, pengikut proyek Anda dapat mengklaim token mereka di aplikasi ShibaWallet.
-   - Langkah 4: (ShibaWallet Twitter)(https://twitter.com/ShibaWalletPro) akan secara resmi memposting tweet untuk proyek Anda Airdropping & menarik lebih banyak pengikut/anggota grup baru.
+   - Langkah 4: [ShibaWallet Twitter](https://twitter.com/ShibaWalletPro) akan secara resmi memposting tweet untuk proyek Anda Airdropping & menarik lebih banyak pengikut/anggota grup baru.
    
 <br/>
 
