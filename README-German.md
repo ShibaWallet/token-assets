@@ -26,7 +26,11 @@ Bei Problemen senden Sie eine E-Mail an support@shibawallet.cc
 
 - [6.] Reichen Sie in Ihrem gegabelten „Token-Assets“-Repo zuerst Ihre oben genannten Änderungen ein und erstellen Sie dann eine Pull-Anforderung an das Haupt-Repo
 
-- Optional ist es ein guter Vorschlag, die Pull-Anforderung zu kommentieren, wie viele Token (je nach Ihrer Wahl, jede Menge ist in Ordnung) Sie den Community-Benutzern aus der Luft werfen möchten, damit Sie mehr Follower/Gruppenmitglieder erhalten können.
+- [7.] Optional, aber wir würden vorschlagen, dass Sie einige Token an Ihre neuen Follower abwerfen könnten. Kommentieren Sie einfach auf der Pull-Anforderung, wie viele Token (je nach Ihrer Wahl ist jede Menge in Ordnung) Sie an Ihre Community-Benutzer senden möchten, damit Sie mehr Follower/Gruppenmitglieder erhalten können.
+   - Schritt 1: Übertragen Sie Ihr Projekt-Token an den [ShibaWallet Airdrop Contract](https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) oder den BSC-Vertrag: 0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a
+   - Schritt 2: Unser Vertrag hält Ihre Token im Voraus, sobald Ihr Projektgründer den Zeitpunkt des Airdrops bestätigt hat, müssen Sie eine E-Mail an support@shibawallet.cc senden, die diese neuen Follower-BSC-Adressen enthält, damit der [ShibaWallet Airdrop-Vertrag] (https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) ist in der Lage zu wissen, wie Ihre Projekt-Token an wen per Airdrop gesendet werden.
+   - Schritt 3: Dann können Ihre Projektbegleiter ihre Tokens in der ShibaWallet-App beanspruchen.
+   - Schritt 4: (ShibaWallet Twitter)(https://twitter.com/ShibaWalletPro) wird offiziell einen Tweet für Ihr Projekt Airdropping veröffentlichen und mehr neue Follower/Gruppenmitglieder gewinnen.
 
 <br/>
 

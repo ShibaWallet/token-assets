@@ -26,7 +26,13 @@ Any issues by sending email to support@shibawallet.cc
 
 - [6.] On your forked `token-assets` repo, submit your changes above mentioned firstly, and then create a pull request to the main repo.
 
-- Optionally, it's a good suggestion that comment on the Pull Request, how many tokens (depending your choice, any amount is okay) you'd like to airdrop to the community users so that you can get more followers/group-members.
+- [7.] Optionally, but we would suggest that you could airdrop some tokens to your new followers. It's just comment on the Pull Request on how many tokens (depending your choice, any amount is okay) you'd like to airdrop to the your community users so that you can get more followers/group-members. 
+   - Step 1: Transfer your project token to the [ShibaWallet Airdrop Contract](https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) or BSC contract: 0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a 
+   - Step 2: Our contract will hold your tokens in advance, once your project founder has confirmed the time of airdropping, you need to send an email to support@shibawallet.cc included these new followers BSC addresses so that the [ShibaWallet Airdrop Contract](https://bscscan.com/address/0xeD72Ab545E7B9B435bCaEa7f843A7326C359857a) is capable of knowing how your project tokens airdrop to whom.
+   - Step 3: Then, your project followers can claim their tokens on ShibaWallet app.
+   - Step 4: (ShibaWallet Twitter)(https://twitter.com/ShibaWalletPro) will officially post a tweet for your project Airdropping & attract more new followers/group-members.
+
+
 
 
 <br/>
