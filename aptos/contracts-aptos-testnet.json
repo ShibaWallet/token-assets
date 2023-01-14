@@ -1,0 +1,9 @@
+[
+    {
+        "name": "ShibaWallet",
+        "symbol": "SHWA",
+        "logo": "https://shibawallet.cc/token-logo/SHWA.png",
+        "contract_address": "0x9fcbd09069562ec1c07199e65819dd7589359933943c17388f90a79a4d477246::ShibaWallet::SHWA",
+        "introduction": ""
+    }
+]
